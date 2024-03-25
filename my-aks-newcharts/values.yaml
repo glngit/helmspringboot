@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: myacrrepo531gl.azurecr.io/akannan1087/docker-spring-boot
+  repository: myacrrepo531gl.azurecr.io/glngit/helmspringboot
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
